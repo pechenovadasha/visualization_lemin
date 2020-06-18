@@ -17,8 +17,8 @@ import pygame
 import sys
 from pygame.locals import *
 
-WIDTH = 1600
-HIGH = 900
+WIDTH = 1200
+HIGH = 500
 FPS = 60
 SIZE_HOUSE = 200
 
